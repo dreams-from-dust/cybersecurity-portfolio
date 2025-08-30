@@ -28,4 +28,4 @@ This repository is a centralized collection of my projects, reports, and analyse
 * **Cybersecurity Incident Report - Network Traffic Analysis:** Analyzed network traffic from a `tcpdump` log to determine the root cause of a website outage.
 * **SQL Queries to Analyze Login Attempts:** Used SQL queries to investigate failed login attempts and analyze user activity.
 * **File Permissions in Linux:** A project detailing how to use Linux commands to check and modify file permissions.
-* **Update a file through a Python algorithm:** Created a Python script to automate the process of updating a file of approved IP addresses.
+* **Update a File through a Python Algorithm:** Created a Python script to automate the process of updating a file of approved IP addresses.
